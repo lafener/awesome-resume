@@ -12,13 +12,13 @@
 # 个人信息
 
  - 杭建/男/1987 
- - 硕士/西安电子科技大学/计算机学院/计算机系统结构
- - 本科/西安电子科技大学/计算机学院/网络工程
+ - 工学硕士/西安电子科技大学/计算机学院/计算机系统结构
+ - 工学学士/西安电子科技大学/计算机学院/网络工程
  - 工作年限：2年
  - 微博：[@飒然Hang](http://weibo.com/superhj1987)
- - 技术博客：http://srhang.me/blog
- - Github: http://github.com/superhj1987
- - 期望职位：Java高级程序员，架构师
+ - 技术博客：[http://srhang.me/blog](http://srhang.me/blog)
+ - Github: [http://github.com/superhj1987](http://github.com/superhj1987)
+ - 期望职位：Java开发工程师，架构师
  - 期望薪资：税前月薪20k+，特别喜欢的公司可例外
  - 期望城市：杭州
 
