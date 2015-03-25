@@ -107,8 +107,8 @@ ELB，即Elastic Load Balance-弹性负载均衡。为网易云计算项目提�
 以下均为我熟练使用的技能
 
 - 开发语言：Java/C/Node/PHP/Python/Shell
-- Web开发：Spring/Spring mvc/MyBatis
-- 前端框Jquery/ExtJs/BootStrapap
+- 开发框架：Spring/Spring mvc/MyBatis/Struts/Netty
+- 前端框架：Jquery/ExtJs/BootStrapap
 - 数据库相关：MySQL
 - 版本管理、文档和自动化部署工具：Svn/Git
 - 单元测试：Junit
