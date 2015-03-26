@@ -1,3 +1,3 @@
 ## awesome-resume
 
-collections of awesomen resume templet
+collections of awesome resume templet
