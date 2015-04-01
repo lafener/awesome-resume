@@ -17,9 +17,6 @@
  - 微博：[@飒然Hang](http://weibo.com/superhj1987)
  - 技术博客：[http://srhang.me/blog](http://srhang.me/blog)
  - Github: [http://github.com/superhj1987](http://github.com/superhj1987)
- - 期望职位：Java开发工程师，架构师
- - 期望薪资：税前月薪20k+，特别喜欢的公司可例外
- - 期望城市：杭州
 
 ---
 
