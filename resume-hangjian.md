@@ -65,7 +65,7 @@ NLB，即NetEase Load Balance-网易弹性负载均衡。为网易云计算项�
 项目主要开发者，参与项目需求、架构设计。主要负责七层负载均衡以及代理端设计实现，部分服务端开发工作、部分脚本开发工作。
 
 
-### 易信公众平台
+### [易信公众平台](http://plus.yixin.im)
 
 易信公众平台是易信的主要功能之一，为用户提供公众帐号服务。整个系统采用Spring+DAO+DDB+NDIR架构设计。现已上线，为易信公众帐号以及用户提供公众平台服务。
 
@@ -111,6 +111,7 @@ NLB，即NetEase Load Balance-网易弹性负载均衡。为网易云计算项�
 
 ## 开源项目
 
+ - [java-develop-practice](https://github.com/superhj1987/java-develop-practice): Java开发相关技术的总结
  - [spring-mvc-model-attribute-alias](https://github.com/superhj1987/spring-mvc-model-attribute-alias) : 针对spring mvc的model attribute不支持别名的解决方案。
  - [nginx_cookbook](https://github.com/superhj1987/nginx_cookbook): 学习nginx源代码的学习笔记以及一些实践代码
  - [netty-study](https://github.com/superhj1987/netty-study):netty源代码学习笔记以及实践代码
