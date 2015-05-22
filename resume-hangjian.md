@@ -152,6 +152,8 @@ NLB，即NetEase Load Balance-网易弹性负载均衡。为网易云计算项�
 - 开发语言：Java/C/Node/PHP/Python/Shell
 - 开发框架：Spring/Spring mvc/MyBatis/Struts/Netty
 - 前端框架：Jquery/ExtJs/BootStrap
-- 数据库相关：MySQL
-- 版本管理、文档和自动化部署工具：Svn/Git
+- 数据库相关：MySQL/Redis/Oracle
+- 版本管理、文档和自动化部署工具：Svn/Git/Jira/Jenkins
 - 单元测试：Junit
+- 分布式技术：Storm/Hbase
+- 消息队列：Kafka/RabbitMQ
