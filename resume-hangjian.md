@@ -126,6 +126,7 @@ NLB，即NetEase Load Balance-网易弹性负载均衡。为网易云计算项�
 ## 开源项目
 
  - [java-develop-practice](https://github.com/superhj1987/java-develop-practice): Java开发相关技术的总结
+ - [spring-remoting-thrift](https://github.com/superhj1987/spring-remoting-thrift):Spring remoting thrift support
  - [spring-mvc-model-attribute-alias](https://github.com/superhj1987/spring-mvc-model-attribute-alias) : 针对spring mvc的model attribute不支持别名的解决方案。
  - [nginx_cookbook](https://github.com/superhj1987/nginx_cookbook): 学习nginx源代码的学习笔记以及一些实践代码
  - [netty-study](https://github.com/superhj1987/netty-study):netty源代码学习笔记以及实践代码
